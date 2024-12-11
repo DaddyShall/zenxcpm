@@ -6,9 +6,9 @@ pkg install git
 
 pkg install python-pip
 
-git clone https://github.com/najford/boss_ian.git
+git clone https://github.com/DaddyShall/zenxcpm.git
 
-cd boss_ian
+cd zenxcpm
 
 git pull
 
